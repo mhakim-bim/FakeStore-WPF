@@ -4,9 +4,42 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FakeStore.WPF"
+        xmlns:viewModels="clr-namespace:FakeStore.WPF.ViewModels"
+        xmlns:views="clr-namespace:FakeStore.WPF.Views"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Title="MainWindow" Height="450" Width="2000"
+        WindowState="Maximized">
+    <Window.DataContext>
+        <viewModels:ProductsViewModel></viewModels:ProductsViewModel>
+    </Window.DataContext>
+    
+    <b:Interaction.Triggers>
+        <b:EventTrigger EventName="Loaded">
+            <b:InvokeCommandAction Command="{Binding LoadProductsCommand}"/>
+        </b:EventTrigger>
+    </b:Interaction.Triggers>
+    
+    <ScrollViewer VerticalScrollBarVisibility="Auto" Width="Auto">
+        <Grid>
+            
+            <ItemsControl ItemsSource="{Binding Products}"
+                          Width="Auto"
+                          Height="Auto"
+                          HorizontalAlignment="Stretch">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <views:ProductView Product="{Binding .}" 
+                                           MaxWidth="500" 
+                                           MaxHeight="500"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Grid>
+    </ScrollViewer>
 </Window>

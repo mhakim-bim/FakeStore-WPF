@@ -1,0 +1,12 @@
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.AssemblyInfo.cs
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\bin\Debug\net5.0\FakeStore.ClassLibrary.deps.json
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\bin\Debug\net5.0\FakeStore.ClassLibrary.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\bin\Debug\net5.0\ref\FakeStore.ClassLibrary.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\bin\Debug\net5.0\FakeStore.ClassLibrary.pdb
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\ref\FakeStore.ClassLibrary.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.ClassLibrary\obj\Debug\net5.0\FakeStore.ClassLibrary.pdb

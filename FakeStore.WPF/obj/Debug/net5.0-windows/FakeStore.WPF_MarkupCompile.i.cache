@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Mohamed Elhakim\source\repos\FakeStore\FakeStore.WPF\obj\Debug\net5.0-windows\
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\
 FakeStore.WPF
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\Mohamed Elhakim\source\repos\FakeStore\FakeStore.WPF\App.xaml
-11407045341
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\App.xaml
+21836757562
 
-5-939699794
-193-1891726104
-MainWindow.xaml;
+927442331
+203961826688
+MainWindow.xaml;Views\ProductView.xaml;
 
-False
+True
 

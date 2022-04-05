@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWo/uywpRHfYjQkYvzkMcC1HFCB8jruFegxJX8n6noyek7e2ep0g2V2gqfNwXOB8zUXCI2O7oKHAI6UqVrU8zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desktop\\RiderProjects\\FakeStore-WPF\\FakeStore.DataAccess\\FakeStore.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desktop\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\desktop\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

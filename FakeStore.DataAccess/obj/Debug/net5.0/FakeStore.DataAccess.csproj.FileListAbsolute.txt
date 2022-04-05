@@ -1,0 +1,15 @@
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\FakeStore.DataAccess.deps.json
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\FakeStore.DataAccess.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\ref\FakeStore.DataAccess.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\FakeStore.DataAccess.pdb
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\FakeStore.ClassLibrary.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\bin\Debug\net5.0\FakeStore.ClassLibrary.pdb
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.AssemblyInfo.cs
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.csproj.CopyComplete
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\ref\FakeStore.DataAccess.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.DataAccess\obj\Debug\net5.0\FakeStore.DataAccess.pdb
