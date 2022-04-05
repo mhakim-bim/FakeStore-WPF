@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxRa+oSnxmjdEu3fOvMSeV+Nd5pdW+eGmiOhxyAcYhEu1VbDSM/B61a/9VkbOjmy0+hPurOw1eiei0vSGJKDhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohamed Elhakim\\source\\repos\\FakeStore\\FakeStore.WPF\\FakeStore.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Elhakim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
