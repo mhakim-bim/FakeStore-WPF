@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using FakeStore.WPF.Pages;
 
 namespace FakeStore.WPF
 {
@@ -23,6 +24,11 @@ namespace FakeStore.WPF
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Eye_button_OnClick(object sender, RoutedEventArgs e)
+        {
+            this.MainFrame.Content = new ProductsPage();
         }
     }
 }

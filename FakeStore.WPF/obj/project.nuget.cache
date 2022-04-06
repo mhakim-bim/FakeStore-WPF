@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YrKvHR8r/gjEzMsdJVKQUBpRv3FP19T9JxRW6W6NlFk5wMY9VLKQM3ciASiPHX+iw2oRJ/YXr2gcZ60KM99B6g==",
+  "dgSpecHash": "ltP98JFReCs7Ic4L/HsP75PDKX9JYEHJRuiB863fhkbewsZvviF0JOFeMHZTIi0HsEQQkXHwX/u3ffaaanUY1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\desktop\\RiderProjects\\FakeStore-WPF\\FakeStore.WPF\\FakeStore.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desktop\\.nuget\\packages\\dynamicdata\\7.5.2\\dynamicdata.7.5.2.nupkg.sha512",
     "C:\\Users\\desktop\\.nuget\\packages\\fody\\6.6.0\\fody.6.6.0.nupkg.sha512",
+    "C:\\Users\\desktop\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\desktop\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
     "C:\\Users\\desktop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\desktop\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\desktop\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",

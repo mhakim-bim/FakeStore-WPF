@@ -34,14 +34,16 @@
                 <Image Width="500"
                        Height="300"
                        VerticalAlignment="Top"
-                       HorizontalAlignment="Center"
+                       HorizontalAlignment="Stretch"
                        Source="{Binding ElementName=ProductViewRoot,Path=Product.image}"/>
                 <StackPanel Orientation="Horizontal">
                     <Label HorizontalAlignment="Left"
                            Content="{Binding ElementName=ProductViewRoot,Path=Product.title}"/>
                     <Label HorizontalAlignment="Right"
+                           HorizontalContentAlignment="Right"
                            Content="{Binding ElementName=ProductViewRoot,Path=Product.price}"
-                           ContentStringFormat="c2"/>
+                           ContentStringFormat="c2"
+                           FontSize="20"/>
                 </StackPanel>
                 </StackPanel>
         </Border>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\App.xaml
-21836757562
+31124022964
 
-7-266027432
-203961826688
-MainWindow.xaml;Views\ProductView.xaml;
+8-1427533238
+205329712081
+MainWindow.xaml;Pages\ProductsPage.xaml;Views\ProductView.xaml;
 
 False
 

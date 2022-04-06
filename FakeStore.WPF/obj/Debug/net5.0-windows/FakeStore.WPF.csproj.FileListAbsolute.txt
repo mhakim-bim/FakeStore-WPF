@@ -37,3 +37,8 @@ C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-wind
 C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\FakeStore.WPF.csproj.Fody.CopyLocal.cache
 C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\FakeStore.WPF.csproj.CopyComplete
 C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\Pages\ProductsPage.g.cs
+C:\Users\desktop\RiderProjects\FakeStore-WPF\FakeStore.WPF\obj\Debug\net5.0-windows\Pages\ProductsPage.baml
